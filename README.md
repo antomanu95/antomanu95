@@ -1,4 +1,4 @@
-                                   Hello there 👋, I'm Antonio Manuel!
+Hello there 👋, I'm Antonio Manuel!
                                                           
 Soy un apasionado de la programación y el desarrollo web. Me he especializado en tecnologías modernas tanto para el front-end como para el back-end, lo que me ha permitido desarrollar proyectos completos y dinámicos desde la base hasta su implementación.
 
