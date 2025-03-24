@@ -1,4 +1,4 @@
-<h1>Hello there 👋, I'm Antonio Manuel!</h1>
+<h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Antonio Manuel</h1>
                                                           
 Soy un apasionado de la programación y el desarrollo web. Me he especializado en tecnologías modernas tanto para el front-end como para el back-end, lo que me ha permitido desarrollar proyectos completos y dinámicos desde la base hasta su implementación.
 
